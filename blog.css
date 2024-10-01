@@ -1,0 +1,99 @@
+.title {
+    font-size: ubuntu;
+    color: white;
+    font-size: 3em;
+}
+
+.e {
+    background-color: antiquewhite;
+    border-color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.hi{
+    font-size: 2.5em;
+    color: palevioletred
+}
+h1 {
+    color: white;
+    font-size: 3em;
+}
+
+
+.fi {
+    background-color: antiquewhite;
+    border-color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+fieldset {
+    background-color: palevioletred;
+    border-color: palevioletred;
+    border-radius: 10px;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+p {
+    font-size: 1.3em;
+}
+
+.orgulho {
+    font-size: 2.5em;
+    color: palevioletred
+}
+
+.park {
+    font-size: 2.5em;
+    color: palevioletred
+}
+
+.oi {
+    background-color: antiquewhite;
+    border-color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+button {
+    border-radius: 10px;
+    color: white;
+    background-color: palevioletred;
+    border-style: hidden;
+    width: 130px;
+    height: 50px;
+    transition: 0.3s ease;
+    font-size: 1.2em;
+    font-family: ubuntu;
+
+}
+
+button:active {
+    background-color: gray;
+}
+
+.par {
+    background-color: antiquewhite;
+    border-color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+footer {
+    background-color: lightpink;
+    color: black;
+    border-style: groove;
+    border-color: lightpink;
+    text-align: center;
+    padding: 30px;
+    position: relative;
+    width: 100%;
+}
